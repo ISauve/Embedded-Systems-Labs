@@ -1,7 +1,6 @@
 ;*-------------------------------------------------------------------
 ;* Name:    	lab_4_program.s 
-;* Purpose: 	A sample style for lab-4
-;* Term:		Winter 2014
+;* Purpose: 	interrupt handling
 ;*-------------------------------------------------------------------
 		THUMB 								; Declare THUMB instruction set 
 		AREA 		My_code, CODE, READONLY 	; 
