@@ -1,5 +1,4 @@
-; ECE-222 Lab ... Winter 2013 term 
-; Lab 3 sample code 
+;; Lab 3
 				THUMB 		; Thumb instruction set 
                 AREA 		My_code, CODE, READONLY
                 EXPORT 		__MAIN
