@@ -3,7 +3,8 @@
 ### Lab 1
 *Objective*  
 The objective of this lab is to complete, assemble and download a simple assembly language program. Here is a short list of what you will do in this session:
-  - Write some THUMB assembly language instructions-Use different memory addressing modes
+  - Write some THUMB assembly language instructions
+  - Use different memory addressing modes
   - Test and debug the code on the Keilboard
   - The on-board RAM is used instead of Flash memory You will flash an LED (Light Emitting Diode) at an approximate 1 Hz frequenqy
 
