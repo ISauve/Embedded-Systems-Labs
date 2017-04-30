@@ -19,12 +19,12 @@ The final value of this 32 bit number willbe sent to the 8 LEDs in separate byte
 
 
 ### Lab 4
-*Objective*
+*Objective*  
 The objective of this lab is to learn about interrupts. You will enable an interrupt source in the LPC1768 microprocessor, 
 and write an interrupt service routine (ISR) that is triggered when pressing the INT0 button.  The ISR returnsto the main 
 program after handling the interrupt.
 
-*What you do*
+*What you do*  
 The random number generator from lab-3 will be reconfigured to generate a number which gives a time delay of 5.0 to 25.0 
 seconds with a resolution of 0.1s. Once the program is started a random integer is generated and stored in R6. The main 
 program then displays this (without a decimal so that 5.6 seconds displays as 56 in binary) on the 8 LEDs. The program 
