@@ -1,4 +1,4 @@
-# MCB1700 Board with LPC1768 microcontroller unit by NXP
+# Keil MCB1700 Board with LPC1768 microcontroller unit (by NXP)
 
 ### Lab 1
 *Objective*  
