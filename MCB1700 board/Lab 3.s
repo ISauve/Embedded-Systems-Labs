@@ -1,4 +1,7 @@
-;; Lab 3
+;*-------------------------------------------------------------------
+;* Name:    	lab_3_program.s 
+;* Purpose: 	input/output interfacing
+;*-------------------------------------------------------------------
 				THUMB 		; Thumb instruction set 
                 AREA 		My_code, CODE, READONLY
                 EXPORT 		__MAIN
