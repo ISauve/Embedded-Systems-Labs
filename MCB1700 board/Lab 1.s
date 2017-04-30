@@ -42,18 +42,6 @@ loop
 	STR 		R3, [R4, R2]		; Toggle the LED in Port 1
 	B 			loop		; Branch back to loop
 
-; Lab report:
-; ADD R4, R4, R2 = 0xE0844002
-; Cond = 1110 because the operation always executes
-; RI = 0 because R2 is a register
-; Opcode for add = 0100
-; S is 0 because the operation is ADD not ADDS
-; Rn = 0100 for operand R4
-; Rd = 0100 for destination R4
-; Op2 = 0000 0000 0010 for operand R2
-; This gives 1110 0000 1000 0100 0100 0000 0000 0010 which is = 0xE0844002
-
-
 
 ; 'Long flowchart' implementation:
 ;loop
