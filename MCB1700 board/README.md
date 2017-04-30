@@ -1,4 +1,6 @@
-# Keil MCB1700 Board with LPC1768 MCU (by NXP)
+# Keil MCB1700 Board
+
+Labs from an embedded systems course I took at UW, written in ARM for the Keil MCB1700 Board with a LPC1768 microcontroller unit (by NXP).
 
 ### Lab 1
 *Objective*  
